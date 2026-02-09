@@ -177,9 +177,33 @@ For Further Discussion
 
 What if the most important thing we can know about death is that we cannot know it while we are alive?
 
-For more information, discussion materials, and media inquiries, please contact:
+CHAPTERS
 
-Media Contact:
-[Your Organization/Name]
-[Email]
-[Phone]
+## Appendix A: King James and the Politics of “Authorized” Truth
+
+King James and the King James Version are a case study in how “revelation” can be curated, edited, and weaponized by very human rulers with very human weaknesses.
+
+### How the King James Bible was engineered
+
+- In 1604, King James I ordered a new English Bible to replace rival translations (especially the Geneva Bible) and to unify religious authority under the Church of England.  
+- He gave translators rules: preserve church hierarchy, avoid marginal notes that criticized kings, and ensure the text supported episcopal authority and royal supremacy.  
+- The 1611 result became “Authorized” and, for centuries, the default English Bible, still treated by some as the definitive word of God.
+
+In other words, the “word of God” most English-speaking Christians read for centuries was explicitly shaped to protect a king and his church’s power, not simply to give the public every raw, uncomfortable possibility.
+
+### A fallible king behind a “holy” standard
+
+- James I’s court was notorious for favoritism and scandal; he elevated male favourites like George Villiers to immense power and titles, provoking outrage over corruption and intimacy at court.  
+- His visible entanglements with these men damaged his credibility and were widely seen as weakening his judgment as king.  
+- Yet his “authorized” Bible still functions as a moral and doctrinal standard, as if its origins were purely sacred rather than deeply political.
+
+This makes the King James Bible a perfect example of how a very human figure – with desires, fears, and political needs – can permanently shape what later believers assume is timeless, untouchable revelation.
+
+### Control through a single “standard” Bible
+
+- Over time, the KJV became the normative English Bible; some “King James Only” movements now treat it as the uniquely preserved form of God’s word.  
+- This mindset freezes a 17th‑century, politically shaped text as the permanent control document for doctrine and behavior.  
+- Whoever controls the teaching and enforcement of that one translation effectively controls how “God’s word” is heard by entire communities.
+
+From the perspective of *Life’s 2026 Puzzle*, this shows how a fallible monarch’s politics and peccadillos can become embedded in what later generations are told is the final, pure pipeline from a creator to humanity.
+
