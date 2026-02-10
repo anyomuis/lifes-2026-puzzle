@@ -1,5 +1,5 @@
 # lifes-2026-puzzle
-Philosophy project: Life’s 2026 Puzzle → https://puzzle.
+Philosophy project: Life’s 2026 Puzzle → https://anyomuis.github.io/lifes-2026-puzzle/
 Draft Press Release
 FOR IMMEDIATE RELEASE
 
